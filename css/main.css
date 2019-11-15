@@ -2,3 +2,12 @@
     background: url('../img/nasa-Q1p7bh3SHj8-unsplash.jpg') no-repeat;
     background-size: cover;
 }
+
+
+@media(max-width:600px) {
+    .mobile-sm {
+        font-size: 40px;
+        text-align: center;
+    }
+
+}
